@@ -1,0 +1,29 @@
+fileVersion: 1
+id: "31"
+mappingDefinitions:
+  DATA:
+    database: CLAUER_PROD
+    schema: RETAIL_DATA
+  DATASTORE:
+    database: CLAUER_PROD
+    schema: RETAIL_DATASTORE
+  EXPORT:
+    database: CLAUER_PROD
+    schema: RETAIL_EXPORT
+  INPUT:
+    database: RETAILER
+    schema: INPUT
+  LAND:
+    database: RETAILER
+    schema: LAND
+  REFERENCE:
+    database: RETAILER
+    schema: REFERENCE
+  STAGE:
+    database: CLAUER_PROD
+    schema: RETAIL_STAGE
+  VIEWS:
+    database: CLAUER_PROD
+    schema: RETAIL_VIEWS
+name: Retailer Production
+type: Environment

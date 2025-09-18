@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "18"
+includeSelector: "{ subgraph: \"ThoughtSpot Subgraph\" }"
+name: ThoughtSpot
+type: Job

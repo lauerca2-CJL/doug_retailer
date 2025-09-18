@@ -1,0 +1,29 @@
+fileVersion: 1
+id: "30"
+mappingDefinitions:
+  DATA:
+    database: CLAUER_QA
+    schema: RETAIL_DATA
+  DATASTORE:
+    database: CLAUER_QA
+    schema: RETAIL_DATASTORE
+  EXPORT:
+    database: CLAUER_QA
+    schema: RETAIL_EXPORT
+  INPUT:
+    database: RETAILER
+    schema: INPUT
+  LAND:
+    database: RETAILER
+    schema: LAND
+  REFERENCE:
+    database: RETAILER
+    schema: REFERENCE
+  STAGE:
+    database: CLAUER_QA
+    schema: RETAIL_STAGE
+  VIEWS:
+    database: CLAUER_QA
+    schema: RETAIL_VIEWS
+name: Retailer QA
+type: Environment
