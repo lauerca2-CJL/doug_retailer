@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "19"
+includeSelector: "+{ location: DATA name: DIM_* } OR +{ location: DATA name: FCT_SALES }"
+name: Test
+type: Job
