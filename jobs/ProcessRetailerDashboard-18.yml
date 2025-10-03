@@ -1,6 +1,6 @@
 excludeSelector: ""
 fileVersion: 1
 id: "18"
-includeSelector: "{ subgraph: \"ThoughtSpot Subgraph\" }"
+includeSelector: "{ subgraph: \"Retailer Dashboard\" }"
 name: Process Retailer Dashboard
 type: Job
