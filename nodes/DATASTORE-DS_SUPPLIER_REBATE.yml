@@ -99,6 +99,7 @@ operation:
         dataType: VARCHAR(16777216)
         description: ""
         hashDetails: null
+        isBusinessKey: true
         name: MA
         nullable: true
         sourceColumnReferences:
